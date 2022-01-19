@@ -4,6 +4,6 @@ The Team Meeting App UI design
 
 ## App UI
 
-HomePage             |  Order          |  Cart
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="lib/images/home.png" alt="home" width="300"/>  |  <img src="lib/images/order.png" alt="order" width="300"/> | <img src="lib/images/cart.png" alt="cart" width="300"/>
+SplashPage             |  Home          |  New Meeting      |   Pick Date  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="splash.png" alt="home" width="300"/>  |  <img src="home.png" alt="order" width="300"/> | <img src="new_meeting.png" alt="cart" width="300"/> | <img src="pick.png" alt="cart" width="300"/>
